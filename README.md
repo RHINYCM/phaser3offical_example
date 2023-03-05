@@ -4,7 +4,10 @@
 
 执行
 
+```
 npm i
+
 npm start启动
+```
 
 
